@@ -1,0 +1,8 @@
+atisBardufoss=ATIS:New("Bardufoss", 119.10)
+atisBardufoss:SetRadioRelayUnitName("ATIS Relay Bardufoss")
+atisBardufoss:SetActiveRunway("28")
+atisBardufoss:SetTowerFrequencies("250.65")
+atisBardufoss:SetMapMarks()
+atisBardufoss:AddILS(108.7)
+atisBardufoss:SetVOR(114.2)
+atisBardufoss:Start()
